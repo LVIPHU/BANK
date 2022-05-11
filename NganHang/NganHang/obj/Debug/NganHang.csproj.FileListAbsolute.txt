@@ -1,0 +1,1198 @@
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\NganHang.exe.config
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\NganHang.exe
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\NganHang.pdb
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Data.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Images.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Data.v19.2.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.Frm_chuyenTien.resources
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.Frm_dangNhap.resources
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.Frm_goiRut.resources
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.Frm_khachHang.resources
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.Frm_lietKeTaiKhoan.resources
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.Frm_main.resources
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.Frm_nhanVien.resources
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.Frm_taiKhoan.resources
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.Properties.Resources.resources
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.csproj.GenerateResource.cache
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.exe.licenses
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.csproj.CoreCompileInputs.cache
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.csproj.CopyComplete
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.exe
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.pdb
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.CodeParser.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.csprojAssemblyReference.cache
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.Frm_lietKeKhachHang.resources
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.rptDSKhachHang.resources
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.rptDSTaiKhoan.resources
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.Frm_saoKe.resources
+D:\STUDY\Year 4\HKI\CSDLPT\workspace\project\NganHang\NganHang\obj\Debug\NganHang.rptSaoKeGiaoDich.resources
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\NganHang.exe.config
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\NganHang.exe
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\NganHang.pdb
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.CodeParser.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Data.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Office.v19.2.Core.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Xpo.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraBars.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Images.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Office.v19.2.Core.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Xpo.v19.2.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraBars.v19.2.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.csproj.AssemblyReference.cache
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_chuyenTien.resources
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_dangNhap.resources
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_goiRut.resources
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_khachHang.resources
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_lietKeKhachHang.resources
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_lietKeTaiKhoan.resources
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_main.resources
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_nhanVien.resources
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_saoKe.resources
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_taiKhoan.resources
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.Properties.Resources.resources
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.rptDSKhachHang.resources
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.rptDSTaiKhoan.resources
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.rptSaoKeGiaoDich.resources
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.csproj.GenerateResource.cache
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.exe.licenses
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.csproj.CoreCompileInputs.cache
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.csproj.CopyComplete
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.exe
+D:\Download\NganHang\NganHang\NganHang\obj\Debug\NganHang.pdb
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\NganHang.exe.config
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\NganHang.exe
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\NganHang.pdb
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_chuyenTien.resources
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_dangNhap.resources
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_goiRut.resources
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_khachHang.resources
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_lietKeKhachHang.resources
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_lietKeTaiKhoan.resources
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_main.resources
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_nhanVien.resources
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_saoKe.resources
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_taiKhoan.resources
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.Properties.Resources.resources
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.rptDSKhachHang.resources
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.rptDSTaiKhoan.resources
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.rptSaoKeGiaoDich.resources
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.exe.licenses
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.csproj.CopyComplete
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.exe
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.pdb
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_chuyenChiNhanh.resources
+C:\Users\Admin\Downloads\DoAn_Main\Code\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_taoTaiKhoan.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\NganHang.exe.config
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\NganHang.exe
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\NganHang.pdb
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.Licensing.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.csproj.AssemblyReference.cache
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_chuyenChiNhanh.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_chuyenTien.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_dangNhap.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_goiRut.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_khachHang.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_lietKeKhachHang.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_lietKeTaiKhoan.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_main.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_nhanVien.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_saoKe.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_taiKhoan.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_taoTaiKhoan.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.Properties.Resources.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.rptDSKhachHang.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.rptDSTaiKhoan.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.rptSaoKeGiaoDich.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.csproj.GenerateResource.cache
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.exe.licenses
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.csproj.CoreCompileInputs.cache
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.csproj.CopyComplete
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.exe
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ2\NganHang\NganHang\NganHang\obj\Debug\NganHang.pdb
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\NganHang.exe.config
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\NganHang.exe
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\NganHang.pdb
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.Licensing.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.csproj.AssemblyReference.cache
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_chuyenChiNhanh.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_chuyenTien.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_dangNhap.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_goiRut.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_khachHang.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_lietKeKhachHang.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_lietKeTaiKhoan.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_main.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_nhanVien.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_saoKe.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_taiKhoan.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.Frm_taoTaiKhoan.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.Properties.Resources.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.rptDSKhachHang.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.rptDSTaiKhoan.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.rptSaoKeGiaoDich.resources
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.csproj.GenerateResource.cache
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.exe.licenses
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.csproj.CoreCompileInputs.cache
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.csproj.CopyComplete
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.exe
+C:\Users\88631\OneDrive\Bureau\CSDLPT\DoAn_Main\Code\NganHangQ3\NganHang\NganHang\NganHang\obj\Debug\NganHang.pdb

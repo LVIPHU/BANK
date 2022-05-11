@@ -1,0 +1,20 @@
+USE [NGANHANG]
+GO
+
+/****** Object:  StoredProcedure [dbo].[SP_GETINFOACCOUNT]    Script Date: 9/10/2021 4:15:03 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROC [dbo].[SP_GETINFOACCOUNT]
+@SOTK NCHAR(9)
+AS
+BEGIN
+
+SELECT * FROM TaiKhoan WHERE TaiKhoan.SOTK = @SOTK
+
+END
+GO
+
